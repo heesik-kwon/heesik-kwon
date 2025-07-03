@@ -33,12 +33,21 @@
 <br/>
 
 <h3 align="center">📚 My Projects</h3> 
+
 <div align="center">
+
+
+🎮 <a href="https://github.com/heesik-kwon/STM32-Game-Project" target="_blank"><strong>STM32 Zombie Survival Game</strong></a><br>
+STM32 보드 기반의 슈팅 게임 프로젝트입니다.<br>
+JOG 스틱과 LCD, 타이머 인터럽트를 활용해 좀비를 제거하고 살아남는 생존 게임으로,<br>
+스테이지/점수/HP 시스템, 미사일 발사, 보스 좀비, 밤/낮 배경, 아이템 효과 등이 구현되어 있습니다.
+
 
 💡 <a href="https://github.com/heesik-kwon/Smart-Measurement-Project" target="_blank"><strong>Smart Measurement Project</strong></a><br>
 멀티 센서 기반의 스마트 계측 시스템 프로젝트입니다.<br>
-Verilog로 스톱워치 및 디지털 시계(WATCH) 구현, 초음파 거리 측정(HC-SR04), 온습도 센서(DHT11) 연동,<br>
-FIFO 및 UART를 활용한 데이터 통신과 디스플레이 기능을 포함합니다.
+Verilog로 구현된 stopwatch & watch, HC-SR04 초음파 센서, DHT11 온습도 센서,<br>
+FIFO & UART를 통한 데이터 통신 기능을 포함합니다.
+
 
 
 </div>
