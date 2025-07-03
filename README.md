@@ -30,3 +30,15 @@
   </a>
 </p>
 
+<br/>
+
+<h3 align="center">📚 My Projects</h3> 
+<div align="center">
+
+💡 <a href="https://github.com/heesik-kwon/Smart-Measurement-Project" target="_blank"><strong>Smart Measurement Project</strong></a><br>
+멀티 센서 기반의 스마트 계측 시스템 프로젝트입니다.<br>
+Verilog로 스톱워치 및 디지털 시계(WATCH) 구현, 초음파 거리 측정(HC-SR04), 온습도 센서(DHT11) 연동,<br>
+FIFO 및 UART를 활용한 데이터 통신과 디스플레이 기능을 포함합니다.
+
+
+</div>
