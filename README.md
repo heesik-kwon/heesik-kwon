@@ -37,7 +37,7 @@
 <div align="center">
 
 
-🎮 <a href="https://github.com/heesik-kwon/STM32-Game-Project" target="_blank"><strong>STM32 Zombie Survival Game</strong></a><br>
+🎮 <a href="https://github.com/heesik-kwon/STM32-Game-Project" target="_blank"><strong>STM32 Game Project</strong></a><br>
 STM32 보드 기반의 슈팅 게임 프로젝트입니다.<br>
 JOG 스틱과 LCD, 타이머 인터럽트를 활용해 좀비를 제거하고 살아남는 생존 게임으로,<br>
 스테이지/점수/HP 시스템, 미사일 발사, 보스 좀비, 밤/낮 배경, 아이템 효과 등이 구현되어 있습니다.
