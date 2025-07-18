@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=dfbcf7&height=120&section=header&fontSize=50&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&textBg=false&fontAlign=50" />
+
 
 <!-- 소개 -->
 <h3 align="center">👋 Hello, I'm <strong>HeeSik</strong></h3>
