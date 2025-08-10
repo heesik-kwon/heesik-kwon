@@ -9,6 +9,8 @@
 💡 Passionate about Digital Circuit Design, Signal Processing, and Embedded Systems
 </p>
 
+<br/>
+
 <!-- 기술 스택 -->
 <h3 align="center">⚙️ Tech Stack</h3> 
 
@@ -23,6 +25,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+<br/>
+
 <!-- 블로그 -->
 <h3 align="center">📚 My Study Logs</h3> 
 <p align="center">
@@ -30,6 +34,8 @@
     <img src="https://img.shields.io/badge/Notion-he_sik2_log-black?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
+
+<br/>
 
 <!-- 프로젝트 -->
 <h3 align="center">📂 Featured Projects</h3> 
@@ -56,6 +62,8 @@
     <td>추가 예정</td>
   </tr>
 </table>
+
+<br/>
 
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3> 
