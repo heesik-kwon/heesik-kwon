@@ -39,9 +39,8 @@
 
 | 프로젝트 | 설명 |
 |----------|------|
-| [**STM32 Game Project**](https://github.com/heesik-kwon/STM32-Game-Project) | STM32 보드 기반의 슈팅 게임입니다. JOG 스틱, LCD, 타이머 인터럽트를 활용해 좀비를 제거하는 생존 게임을 구현했습니다.|
 | [**UART Sensor Design**](https://github.com/heesik-kwon/Smart-Measurement-Project) | Verilog 기반 스마트 계측 시스템입니다. <br>Stopwatch & Watch, HC-SR04 초음파 센서, DHT11 온습도 센서, FIFO & UART 통신을 설계하였습니다. |
 | [**FIR Filter Design**](https://github.com/heesik-kwon/FIR-Filter-Design) | Fixed Point 기반 33탭 RRC 필터를 System Verilog로 구현하여 FIR 필터 구조를 설계하였습니다.|
-| [**Fast Fourier Transform**](https://github.com/heesik-kwon/Fast-Fourier-Transform) | 고정소수점 기반 FFT 연산을 System Verilog로 설계 및 검증한 디지털 신호처리 프로젝트입니다.|
+| [**FFT Architecture**](https://github.com/heesik-kwon/Fast-Fourier-Transform) | 고정소수점 기반 FFT 연산을 System Verilog로 설계 및 검증한 디지털 신호처리 프로젝트입니다.|
 | [**RISC V CPU**](https://github.com/heesik-kwon/Fast-Fourier-Transform) | |
 </div>
