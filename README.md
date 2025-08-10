@@ -1,5 +1,5 @@
 <!-- 상단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 
 <!-- 소개 -->
 <h3 align="center">👋 Hi, I'm <strong>HeeSik</strong></h3>
@@ -72,8 +72,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=heesik-kwon&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesik-kwon&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
----
-
-<!-- 하단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
