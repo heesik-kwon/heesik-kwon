@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/heesik-kwon/Smart-Measurement-Project"><b>UART Sensor Design</b></a></td>
-    <td>Verilog 기반 스마트 계측 시스템.<br>Stopwatch & Watch, HC-SR04 초음파 센서, DHT11 온습도 센서, FIFO & UART 통신 설계.</td>
+    <td>Stopwatch & Watch, HC-SR04 초음파 센서, DHT11 온습도 센서, FIFO & UART 통신 설계.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/heesik-kwon/FIR-Filter-Design"><b>FIR Filter Design</b></a></td>
