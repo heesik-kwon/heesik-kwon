@@ -58,7 +58,7 @@
     <td>고정소수점 기반 FFT 연산을 SystemVerilog로 설계 및 검증한 디지털 신호처리 프로젝트.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/heesik-kwon/RISC-V-CPU-Architecture"><b>RISC-V CPU</b></a></td>
+    <td><a href="https://github.com/heesik-kwon/RISC-V-32bit-CPU-Architecture"><b>RISC-V CPU</b></a></td>
     <td>추가 예정</td>
   </tr>
 </table>
