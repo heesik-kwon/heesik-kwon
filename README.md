@@ -47,19 +47,19 @@
   </tr>
   <tr>
     <td><a href="https://github.com/heesik-kwon/Smart-Measurement-Project"><b>UART Sensor Design</b></a></td>
-    <td>Stopwatch & Watch, HC-SR04 초음파 센서, DHT11 온습도 센서, FIFO & UART 통신 설계.</td>
+    <td>Stopwatch & Watch, HC-SR04 초음파 센서, DHT11 온습도 센서, FIFO & UART 통신 설계</td>
   </tr>
   <tr>
     <td><a href="https://github.com/heesik-kwon/FIR-Filter-Design"><b>FIR Filter Design</b></a></td>
-    <td>Fixed Point 기반 33탭 RRC 필터를 SystemVerilog로 구현하여 FIR 필터 구조 설계.</td>
+    <td>Fixed Point 기반 33탭 RRC 필터를 SystemVerilog로 구현하여 FIR 필터 구조 설계</td>
   </tr>
   <tr>
     <td><a href="https://github.com/heesik-kwon/FFT-Architecture-Design"><b>FFT Architecture</b></a></td>
     <td>고정소수점 기반 FFT 연산을 SystemVerilog로 설계 및 검증한 디지털 신호처리 프로젝트.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/heesik-kwon/RISC-V-32bit-CPU-Architecture"><b>RISC-V CPU</b></a></td>
-    <td>추가 예정</td>
+    <td><a href="https://github.com/heesik-kwon/RISC-V-32bit-CPU-Architecture"><b>RISC-V CPU + AMBA BUS</b></a></td>
+    <td>Single/Multi Cycle CPU 설계 & AMBA BUS를 통해 주변 장치와 인터페이스</td>
   </tr>
 </table>
 
