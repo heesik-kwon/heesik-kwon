@@ -61,6 +61,10 @@
     <td><a href="https://github.com/heesik-kwon/RISC-V-32bit-CPU-Architecture"><b>RISC-V CPU + AMBA BUS</b></a></td>
     <td>Single/Multi Cycle CPU 설계 & AMBA BUS를 통해 주변 장치와 인터페이스</td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/heesik-kwon/Microblaze-Axi4lite-I2C-SPI-ip"><b>AXI4 Lite + SPI/I2C</b></a></td>
+    <td>FPGA 기반 SPI/I2C 통신 시스템 설계 & UVM 기반 기능 검증</td>
+  </tr>
 </table>
 
 <br/>
