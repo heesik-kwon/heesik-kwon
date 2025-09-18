@@ -54,7 +54,7 @@
     <td>Fixed Point 기반 33탭 RRC 필터를 SystemVerilog로 구현하여 FIR 필터 구조 설계</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/heesik-kwon/FFT-Architecture-Design"><b>FFT Architecture</b></a></td>
+    <td><a href="https://github.com/heesik-kwon/FFT-Architecture-Design"><b>512 Point FFT</b></a></td>
     <td>고정소수점 기반 FFT 연산을 SystemVerilog로 설계 및 검증한 디지털 신호처리 프로젝트.</td>
   </tr>
   <tr>
