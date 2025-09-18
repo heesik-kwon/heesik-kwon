@@ -65,6 +65,10 @@
     <td><a href="https://github.com/heesik-kwon/Microblaze-Axi4lite-I2C-SPI-ip"><b>AXI4 Lite + SPI/I2C</b></a></td>
     <td>FPGA 기반 SPI/I2C 통신 시스템 설계 & UVM 기반 기능 검증</td>
   </tr>
+      <tr>
+    <td><a href="https://github.com/heesik-kwon/Microblaze-Axi4lite-I2C-SPI-ip"><b>VGA 영상처리 Project</b></a></td>
+    <td>진행중</td>
+  </tr>
 </table>
 
 <br/>
