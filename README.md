@@ -66,7 +66,7 @@
     <td>FPGA 기반 SPI/I2C 통신 시스템 설계 & UVM 기반 기능 검증</td>
   </tr>
       <tr>
-    <td><a href="https://github.com/heesik-kwon/Microblaze-Axi4lite-I2C-SPI-ip"><b>VGA Project</b></a></td>
+    <td><a href="https://github.com/heesik-kwon/VGA-Project"><b>VGA Project</b></a></td>
     <td>VGA 기반 실시간 교통관리 시스템</td>
   </tr>
 </table>
